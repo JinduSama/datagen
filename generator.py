@@ -6,7 +6,6 @@ GERMAN_ID_WEIGHTS = [7, 3, 1, 7, 3, 1, 7, 3, 1]
 GERMAN_ID_LENGTH = 9
 
 # Constants for German Tax ID generation
-TAX_ID_LENGTH = 10
 TAX_ID_DUPLICATE_PROBABILITY = 0.9
 MODULUS_11 = 11
 MODULUS_10 = 10
